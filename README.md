@@ -1,5 +1,5 @@
-# macebomdali-khanyile
-# Hi, I'm Macebomdali Khanyile 👋
+
+# Hi, I'm Macebomdali Khanyile 
 
 Final year ICT student | I design systems and work with data  
 Learning: Python, SQL, JavaScript, React, Java, C#, R, PHP  
